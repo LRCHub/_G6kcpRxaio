@@ -1,0 +1,72 @@
+{
+  "version": 1,
+  "base_track": "Virtual to LIVE",
+  "base_artist": "NIJISANJI",
+  "createdAt": "2025-12-01T08:00:10.145463Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Virtual to LIVE",
+      "artist": "Nijisanji",
+      "has_synced": false,
+      "path": "select/01_Virtual_to_LIVE_Nijisanji.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Virtual to LIVE",
+      "artist": "NIJISANJI",
+      "has_synced": true,
+      "path": "select/02_Virtual_to_LIVE_NIJISANJI.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Virtual to LIVE",
+      "artist": "NIJISANJI JP",
+      "has_synced": true,
+      "path": "select/03_Virtual_to_LIVE_NIJISANJI_JP.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Virtual to LIVE",
+      "artist": "にじさんじ",
+      "has_synced": false,
+      "path": "select/pl_01_Virtual_to_LIVE_にじさんじ.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "Virtual to LIVE",
+      "artist": "にじさんじ",
+      "has_synced": false,
+      "path": "select/pl_02_Virtual_to_LIVE_にじさんじ.txt"
+    },
+    {
+      "id": "petitlyrics_3",
+      "source": "petitlyrics",
+      "title": "Virtual to LIVE (Mtell Hardcore Bootleg)",
+      "artist": "にじさんじ",
+      "has_synced": false,
+      "path": "select/pl_03_Virtual_to_LIVE_(Mtell_Hardcore_Bootleg)_にじさんじ.txt"
+    },
+    {
+      "id": "petitlyrics_4",
+      "source": "petitlyrics",
+      "title": "Virtual to Live",
+      "artist": "にじさんじ",
+      "has_synced": false,
+      "path": "select/pl_04_Virtual_to_Live_にじさんじ.txt"
+    },
+    {
+      "id": "petitlyrics_5",
+      "source": "petitlyrics",
+      "title": "Virtual to LIVE",
+      "artist": "にじさんじ",
+      "has_synced": false,
+      "path": "select/pl_05_Virtual_to_LIVE_にじさんじ.txt"
+    }
+  ]
+}
